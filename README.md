@@ -5,6 +5,6 @@
 
   # GR2023Info's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[gr2023info.github.io/IMPACT](https://gr2023info.github.io/IMPACT)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
