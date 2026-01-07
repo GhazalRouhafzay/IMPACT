@@ -1,192 +1,378 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/ECSA-12-26521
+  title: A Three-Stage Transformer-Based Approach for Food Mass Estimation
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Sinda Besrour
+  - Ghazal Rouhafzay
+  - Jalila Jbilou
+  publisher: The 12th International Electronic Conference on Sensors and Applications
+  date: '2025-11-07'
+  link: https://doi.org/hbh4pw
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3390/ECSA-12-26523
+  title: Evaluating Voice Biomarkers and Deep Learning for Neurodevelopmental Disorder
+    Screening in Real-World Conditions
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Hajarimino Rakotomanana
+  - Ghazal Rouhafzay
+  publisher: The 12th International Electronic Conference on Sensors and Applications
+  date: '2025-11-07'
+  link: https://doi.org/hbh4px
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/bioengineering12111136
+  title: A Scoping Review of AI-Based Approaches for Detecting Autism Traits Using
+    Voice and Behavioral Data
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Hajarimino Rakotomanana
+  - Ghazal Rouhafzay
+  publisher: Bioengineering
+  date: '2025-10-22'
+  link: https://doi.org/hbh4pz
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3389/fnut.2025.1501946
+  title: 'Image-based food monitoring and dietary management for patients living with
+    diabetes: a scoping review of calorie counting applications'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Asal Rouhafzay
+  - Ghazal Rouhafzay
+  - Jalila Jbilou
+  publisher: Frontiers in Nutrition
+  date: '2025-03-27'
+  link: https://doi.org/hbh4p2
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/CVPRW67362.2025.00441
+  title: Multi-Spectral Imaging and Data Fusion for Real-Time Bleeding Detection
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Ghazal Rouhafzay
+  - Stephen Rowlands
+  - Angel J. Valencia
+  - Shengsong Yang
+  - Pierre Payeur
+  - Haitao Tian
+  - James Dickens
+  publisher: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+    (CVPRW)
+  date: '2025-06-11'
+  link: https://doi.org/hbh4p3
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.3390/ecsa-11-20472
+  title: Enhancing Explainability in Convolutional Neural Networks Using Entropy-Based
+    Class Activation Maps
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "\xC9ric Boketsu-Boulu"
+  - Ghazal Rouhafzay
+  publisher: ICSEE 2024
+  date: '2024-11-26'
+  link: https://doi.org/hbh4p4
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.3390/ecsa-11-20422
+  title: A Contrastive Learning Approach for Integrating Visuo-Tactile Representation
+    in Textiles
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Nada Ech-chouqi
+  - Ghazal Rouhafzay
+  publisher: ECSA-11
+  date: '2024-11-25'
+  link: https://doi.org/hbh4p5
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3390/s24237664
+  title: Multimodal Material Classification Using Visual Attention
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Mohadeseh Maleki
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: Sensors
+  date: '2024-11-29'
+  link: https://doi.org/hbh4p6
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/64139
+  title: 'Calorie Counting Apps for Monitoring and Managing Calorie Intake in Adults
+    living with Weight-Related Chronic Diseases: A Decade-long Scoping Review (2013-2024)
+    (Preprint)'
+  authors:
+  - Kaylee Rose Dugas
+  - "Marie-Andr\xE9e Giroux"
+  - Abdelatif Guerroudj
+  - Jazna Leger
+  - Asal Rouhafzay
+  - Ghazal Rouhafzay
+  - Jalila Jbilou
+  publisher: JMIR mHealth and uHealth
+  date: '2024-07-12'
+  link: https://doi.org/hbh4p7
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/preprints.64139
+  title: 'Calorie Counting Apps for Monitoring and Managing Calorie Intake in Adults
+    with Weight-Related Chronic Diseases: A Decade-long Scoping Review (2013-2024)
+    (Preprint)'
+  authors:
+  - Kaylee Rose Dugas
+  - "Marie-Andr\xE9e Giroux"
+  - Abdelatif Guerroudj
+  - Jazna Leger
+  - Asal Rouhafzay
+  - Ghazal Rouhafzay
+  - Jalila Jbilou
+  publisher: JMIR Publications Inc.
+  date: '2024-07-12'
+  link: https://doi.org/hbh4p8
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11063-023-11180-w
+  title: A Deep Model of Visual Attention for Saliency Detection on 3D Objects
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  - Pierre Payeur
+  publisher: Neural Processing Letters
+  date: '2023-02-28'
+  link: https://doi.org/hbh4p9
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SAS58821.2023.10253973
+  title: Automatic Real-Time Fever Screening in a Thermal Video Surveillance System
+  authors:
+  - Ghazal Rouhafzay
+  - Angel J. Valencia
+  - Stephen Rowlands
+  - Shengsong Yang
+  - Pierre Payeur
+  publisher: 2023 IEEE Sensors Applications Symposium (SAS)
+  date: '2023-07-18'
+  link: https://doi.org/hbh4qb
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ecsa-9-13271
+  title: A Deep-Learning-Based Approach for Saliency Determination on Point Clouds
+  authors:
+  - Yassine Souai
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: The 9th International Electronic Conference on Sensors and Applications
+  date: '2022-11-01'
+  link: https://doi.org/hbh4qc
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CIVEMSA53371.2022.9853707
+  title: Warm Liquid Spill Detection and Tracking Using Thermal Imaging
+  authors:
+  - Ghazal Rouhafzay
+  - Haitao Tian
+  - Pierre Payeur
+  publisher: 2022 IEEE 9th International Conference on Computational Intelligence
+    and Virtual Environments for Measurement Systems and Applications (CIVEMSA)
+  date: '2022-06-15'
+  link: https://doi.org/hbh4qd
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MIM.2021.9436099
+  title: Biologically Inspired Vision and Touch Sensing to Optimize 3D Object Representation
+    and Recognition
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  - Pierre Payeur
+  publisher: IEEE Instrumentation &amp; Measurement Magazine
+  date: '2021-05-01'
+  link: https://doi.org/hbh4qf
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-819740-0.00001-2
+  title: Computer-aided detection of abnormality in mammography using deep object
+    detectors
+  authors:
+  - Pengcheng Xi
+  - Ghazal Rouhafzay
+  - Haitao Guan
+  - Chang Shu
+  - Louis Borgeat
+  - Rafik Goubran
+  publisher: State of the Art in Neural Networks and their Applications
+  date: '2021-01-01'
+  link: https://doi.org/hbh4qg
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789811239014_0001
+  title: Enhanced Lesion Detection in Breast MRI Using Parallel and Cascaded Integration
+    of Deep Learning Models
+  authors:
+  - Ghazal Rouhafzay
+  - Yonggang Li
+  - Haitao Guan
+  - Chang Shu
+  - Rafik Goubran
+  - Pengcheng Xi
+  publisher: Series on Language Processing, Pattern Recognition, and Intelligent Systems
+  date: '2021-11-30'
+  link: https://doi.org/hbh4qh
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s21010113
+  title: 'Transfer of Learning from Vision to Touch: A Hybrid Deep Convolutional Neural
+    Network for Visuo-Tactile 3D Object Recognition'
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  - Pierre Payeur
+  publisher: Sensors
+  date: '2020-12-27'
+  link: https://doi.org/gmz6vp
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-59830-3_56
+  title: An Integrated Deep Architecture for Lesion Detection in Breast MRI
+  authors:
+  - Ghazal Rouhafzay
+  - Yonggang Li
+  - Haitao Guan
+  - Chang Shu
+  - Rafik Goubran
+  - Pengcheng Xi
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/hbh4qj
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIM.2019.2905906
+  title: Object Recognition From Haptic Glance at Visually Salient Locations
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: IEEE Transactions on Instrumentation and Measurement
+  date: '2020-03-01'
+  link: https://doi.org/hbh4qk
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s19071534
+  title: An Application of Deep Learning to Tactile Data for Object Recognition under
+    Visual Guidance
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: Sensors
+  date: '2019-03-29'
+  link: https://doi.org/hbh4qm
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ecsa-5-05754
+  title: A Visuo-Haptic Framework for Object Recognition Inspired by Human Tactile
+    Perception
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: 5th International Electronic Conference on Sensors and Applications
+  date: '2018-11-14'
+  link: https://doi.org/hbh4qn
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CIVEMSA.2018.8439966
+  title: A Virtual Tactile Sensor with Adjustable Precision and Size for Object Recognition
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: 2018 IEEE International Conference on Computational Intelligence and
+    Virtual Environments for Measurement Systems and Applications (CIVEMSA)
+  date: '2018-06-01'
+  link: https://doi.org/hbh4qp
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s13319-018-0181-z
+  title: Perceptually Improved 3D Object Representation Based on Guided Adaptive Weighting
+    of Feature Channels of a Visual-Attention Model
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: 3D Research
+  date: '2018-07-10'
+  link: https://doi.org/hbh4qq
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ecsa-4-04901
+  title: A 3D Visual Attention Model to Guide Tactile Data Acquisition for Object
+    Recognition
+  authors:
+  - Ghazal Rouhafzay
+  - Nicolas Pedneault
+  - Ana-Maria Cretu
+  publisher: The 4th International Electronic Conference on Sensors and Applications
+  date: '2017-11-14'
+  link: https://doi.org/hbh4qr
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CIVEMSA.2017.7995309
+  title: Selectively-densified mesh construction for virtual environments using salient
+    points derived from a computational model of visual attention
+  authors:
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  publisher: 2017 IEEE International Conference on Computational Intelligence and
+    Virtual Environments for Measurement Systems and Applications (CIVEMSA)
+  date: '2017-06-01'
+  link: https://doi.org/hbh4qs
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s13319-016-0106-7
+  title: Enhanced Visual-Attention Model for Perceptually Improved 3D Object Modeling
+    in Virtual Environments
+  authors:
+  - Maude Chagnon-Forget
+  - Ghazal Rouhafzay
+  - Ana-Maria Cretu
+  - "St\xE9phane Bouchard"
+  publisher: 3D Research
+  date: '2016-10-17'
+  link: https://doi.org/hbh4qt
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SIU.2014.6830301
+  title: Modified orientation based burst packing (MOBBP) algorithm for improved frame
+    packing efficiency
+  authors:
+  - Ghazal Rouhafzay
+  - Keivan Bahmani
+  - Erhan A. Ince
+  publisher: 2014 22nd Signal Processing and Communications Applications Conference
+    (SIU)
+  date: '2014-04-01'
+  link: https://doi.org/hbh4qv
+  orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +388,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +404,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
