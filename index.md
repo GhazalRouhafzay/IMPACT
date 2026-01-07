@@ -1,9 +1,9 @@
 ---
 ---
 
-# GR2023Info's Website
+# Ghazal Rouhafzay's Website
 
-An engaging 1-3 sentence description of your lab.
+IMPACT Lab focuses on integrative approaches to multimodal perception, combining heterogeneous sensing modalities to build robust, interpretable, and intelligent systems. Our work spans representation learning, sensor fusion, and context-aware technologies, with applications in health, robotics, and real-world environments.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
