@@ -5,8 +5,10 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+Graduate student supervision (Université de Moncton) and research collaborations are welcome.  
+Please contact me for inquiries regarding potential projects.
 
 {%
   include button.html
