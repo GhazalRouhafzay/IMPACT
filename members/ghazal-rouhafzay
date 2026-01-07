@@ -469,7 +469,7 @@
 
 <header
   class="background"
-  style="--image: url('/IMPACT/images/background.jpg')"
+  style="--image: url('/IMPACT/images/bc.png')"
   
     data-dark="true"
   
