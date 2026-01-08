@@ -2,26 +2,25 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research projects and tools
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects focus on integrative multimodal perception and intelligent systems, combining machine learning with heterogeneous data sources such as vision, audio, tactile sensing, and physiological signals. Applications span healthcare, assistive technologies, and real-world intelligent systems.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="multimodal, perception, healthcare, deep learning, software, dataset" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Featured Projects
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## Other Projects
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
