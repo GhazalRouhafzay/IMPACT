@@ -5,6 +5,8 @@
 
 IMPACT Lab focuses on integrative approaches to multimodal perception, combining heterogeneous sensing modalities to build robust, interpretable, and intelligent systems. Our work spans representation learning, sensor fusion, and context-aware technologies, with applications in health, robotics, and real-world environments.
 
+### This website is currently under development. Content is being updated.
+
 {% include section.html %}
 
 ## Highlights
