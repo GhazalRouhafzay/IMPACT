@@ -1,7 +1,7 @@
 - title: Early Autism Detection from Voice Biomarkers
   subtitle: Deep learning for speech-based screening signals
   group: featured
-  image: images/projects/voice-biomarkers.jpg
+  image: images/voice-biomarkers.jpg
   link: https://ghazalrouhafzay.github.io/IMPACT/
   description: Research on early autism detection using voice biomarkers and deep learning, with emphasis on robust feature learning and careful evaluation for health applications.
   tags:
@@ -13,7 +13,7 @@
 - title: Multimodal Perception and Sensor Fusion
   subtitle: Learning representations across heterogeneous data
   group: featured
-  image: images/projects/multimodal-fusion.jpg
+  image: images/multimodal-fusion.jpg
   link: https://ghazalrouhafzay.github.io/IMPACT/
   description: Methods for integrating multiple data modalities (e.g., vision, audio, tactile signals) to improve robustness and generalization in real-world intelligent systems.
   tags:
