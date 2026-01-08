@@ -1,10 +1,15 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: "Hajarimino Rakotomanana Presents Research on Early Detection of Autism Spectrum Disorder Using Deep Learning at the NB Health Research Symposium"
+author: hajarimino-rakotomanana
 tags:
-  - biology
-  - medicine
-  - big data
+  - autism
+  - healthcare AI
+  - multimodal data
+  - early detection
+  - health research
+  - symposium
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hajarimino Rakotomanana presented his research on early autism detection at the New Brunswick Health Research Symposium in Fredericton. His work investigates AI-based approaches for identifying early behavioral and developmental indicators using multimodal data, with the goal of supporting accessible, evidence-informed screening tools.
+
+![Hajarimino Rakotomanana presenting at the NB Health Research Symposium in Fredericton]({{ "images/posts/hajarimino-nb-symposium.jpg" | relative_url }})
