@@ -1,47 +1,33 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Early Autism Detection from Voice Biomarkers
+  subtitle: Deep learning for speech-based screening signals
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/voice-biomarkers.jpg
+  link: https://ghazalrouhafzay.github.io/IMPACT/
+  description: Research on early autism detection using voice biomarkers and deep learning, with emphasis on robust feature learning and careful evaluation for health applications.
   tags:
-    - resource
+    - healthcare
+    - audio
+    - deep learning
+    - autism
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Multimodal Perception and Sensor Fusion
+  subtitle: Learning representations across heterogeneous data
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/multimodal-fusion.jpg
+  link: https://ghazalrouhafzay.github.io/IMPACT/
+  description: Methods for integrating multiple data modalities (e.g., vision, audio, tactile signals) to improve robustness and generalization in real-world intelligent systems.
   tags:
-    - resource
+    - multimodal
+    - perception
+    - sensor fusion
+    - representation learning
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+
+- title: Additional Projects
+  subtitle: More details on other projects coming soon
+  image: images/bc.png
+  description: 
   tags:
-    - software
+    - upcoming
