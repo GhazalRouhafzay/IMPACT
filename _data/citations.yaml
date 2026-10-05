@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.20944/preprints202604.1071.v1
+  title: Contrastive Representation Learning for Voice-Based Autistic Trait Identification
+  authors:
+  - Hajarimino Rakotomanana
+  - Ghazal Rouhafzay
+  publisher: MDPI AG
+  date: '2026-04-15'
+  link: https://doi.org/hbzkp2
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/64139
+  title: 'Calorie-Counting Apps for Monitoring and Managing Calorie Intake in Adults
+    Living With Weight-Related Chronic Diseases: Decade-Long Scoping Review (2013-2024)'
+  authors:
+  - Kaylee Dugas
+  - "Marie-Andr\xE9e Giroux"
+  - Abdelatif Guerroudj
+  - Jazna Leger
+  - Asal Rouhafzay
+  - Ghazal Rouhafzay
+  - Jalila Jbilou
+  publisher: JMIR mHealth and uHealth
+  date: '2026-04-01'
+  link: https://doi.org/hbh4p7
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.177092212.24396187/v1
+  title: 'ViCo-LWIR: Vision-Based detection of Indoor Liquid Spills Using Long-Wave
+    Infrared Imaging and a Weakly Supervised Contrastive Framework'
+  authors:
+  - "F\xE9lix Ol\xE9mou"
+  - "\xC9ric Hervet"
+  - Ghazal Rouhafzay
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2026-02-12'
+  link: https://doi.org/hbp92v
+  orcid: 0000-0003-3762-0900
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/ECSA-12-26521
   title: A Three-Stage Transformer-Based Approach for Food Mass Estimation
   authors:
@@ -115,30 +156,12 @@
   orcid: 0000-0003-3762-0900
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.2196/64139
-  title: 'Calorie Counting Apps for Monitoring and Managing Calorie Intake in Adults
-    living with Weight-Related Chronic Diseases: A Decade-long Scoping Review (2013-2024)
-    (Preprint)'
-  authors:
-  - Kaylee Rose Dugas
-  - "Marie-Andr\xE9e Giroux"
-  - Abdelatif Guerroudj
-  - Jazna Leger
-  - Asal Rouhafzay
-  - Ghazal Rouhafzay
-  - Jalila Jbilou
-  publisher: JMIR mHealth and uHealth
-  date: '2024-07-12'
-  link: https://doi.org/hbh4p7
-  orcid: 0000-0003-3762-0900
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.2196/preprints.64139
-  title: 'Calorie Counting Apps for Monitoring and Managing Calorie Intake in Adults
-    with Weight-Related Chronic Diseases: A Decade-long Scoping Review (2013-2024)
+  title: 'Calorie-Counting Apps for Monitoring and Managing Calorie Intake in Adults
+    Living With Weight-Related Chronic Diseases: Decade-Long Scoping Review (2013-2024)
     (Preprint)'
   authors:
-  - Kaylee Rose Dugas
+  - Kaylee Dugas
   - "Marie-Andr\xE9e Giroux"
   - Abdelatif Guerroudj
   - Jazna Leger
